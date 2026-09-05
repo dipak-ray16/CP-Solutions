@@ -3,7 +3,7 @@
 
 Synced automatically by SolveBase.
 
-**Total solved: 15**
+**Total solved: 16**
 
 ## Codeforces
 
@@ -20,11 +20,12 @@ Solutions by [chuck_16](https://codeforces.com/profile/chuck_16), organized by d
 
 Solutions organized by primary topic folder.
 
-**Solved: 9**
+**Solved: 10**
 
 | Topic | Solved |
 | --- | --- |
 | [array](./leetcode/array) | 1 |
+| [backtracking](./leetcode/backtracking) | 1 |
 | [binary-search](./leetcode/binary-search) | 5 |
 | [heap-priority-queue](./leetcode/heap-priority-queue) | 1 |
 | [misc](./leetcode/misc) | 1 |
